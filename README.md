@@ -1,4 +1,4 @@
-<H3>ENTER YOUR NAME : SRIJITH R</H3>
+<H3>ENTER YOUR NAME : Srijith R</H3>
 <H3>ENTER YOUR REGISTER NO: 212221240054 </H3>
 <H3>DATE:12.05.2024</H3>
 
@@ -49,7 +49,7 @@ print(f"Occurrences of '{given_word}': {name_occurrences}")
 ```
 
 ### Output:
-![image](https://github.com/srijithmass/Project-Based-Experiment-AAI/assets/86846530/7a3ae4da-9bf1-4c69-b1d0-ba6193d4e89e)
+![image](https://github.com/srijithmass/Project-Based-Experiment-AAI/assets/86846530/3efa6667-76d3-4d6b-8b45-a136abdda4d6)
 
 
 ### Inference:
